@@ -30,7 +30,7 @@ const workerConfig: WorkerConfig = {
       // `id` should be unique, history will be kept if the `id` remains constant
       id: 'foo_monitor',
       // `name` is used at status page and callback message
-      name: 'My API Monitor',
+      name: 'LibreTV电影网站',
       // `method` should be a valid HTTP Method
       method: 'POST',
       // `target` is a valid URL
@@ -66,13 +66,13 @@ const workerConfig: WorkerConfig = {
     // Example TCP Monitor
     {
       id: 'test_tcp_monitor',
-      name: 'Example TCP Monitor',
+      name: '小鸡VPS服务器',
       // `method` should be `TCP_PING` for tcp monitors
       method: 'TCP_PING',
       // `target` should be `host:port` for tcp monitors
       target: '47.79.22.193:22',
-      tooltip: 'My production server SSH',
-      statusPageLink: 'https://example.com',
+      tooltip: '小鸡VPS服务器',
+      statusPageLink: 'http://cabinet-assists-consists-lined.trycloudflare.com/',
       timeout: 5000,
     },
   ],
