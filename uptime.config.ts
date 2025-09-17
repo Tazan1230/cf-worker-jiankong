@@ -6,8 +6,8 @@ const pageConfig: PageConfig = {
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
     { link: 'https://github.com/Tazan1230', label: 'GitHub' },
-    { link: 'https://pigpiggo.pp.ua/', label: 'TV' },
-    { link: 'ukxd001@gmail.com', label: 'Email Me', highlight: true },
+    { link: 'https://tv666.pigpiggo.pp.ua/', label: 'TV' },
+    { link: 'cfmai01@960617.xyz', label: 'Email Me', highlight: true },
   ],
   // [OPTIONAL] Group your monitors
   // If not specified, all monitors will be shown in a single list
